@@ -7,6 +7,7 @@ Gradle plugin for eclipse devtools tomcat plugin
 
 ##Usage
 
+	apply plugin: "eclipse"
 	apply plugin: "devtools-tomcat"
 	
 	tomcatDescriptor {
