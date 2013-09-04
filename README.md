@@ -1,6 +1,8 @@
 gradle-devtools-tomcat-plugin
 =============================
 
+[![Build Status](https://travis-ci.org/signal7/gradle-devtools-tomcat-plugin.png)](https://travis-ci.org/signal7/gradle-devtools-tomcat-plugin)
+
 Gradle plugin for eclipse devtools tomcat plugin
 
 
